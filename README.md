@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://c.tenor.com/V8spfD8_EhAAAAAd/luffy-gear5.gif"  />
+  <img height="500" src="https://i.pinimg.com/736x/f0/af/cb/f0afcbce7ed4a7df7b822964501bf995.jpg"/>
 </div>
 
 ###
