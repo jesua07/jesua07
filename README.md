@@ -38,7 +38,7 @@
 ###
 
 <div align="left">
-  <img height="500" src="https://i.pinimg.com/736x/f0/af/cb/f0afcbce7ed4a7df7b822964501bf995.jpg"/>
+  <img height="300" src="https://i.pinimg.com/736x/f0/af/cb/f0afcbce7ed4a7df7b822964501bf995.jpg"/>
 </div>
 
 ###
