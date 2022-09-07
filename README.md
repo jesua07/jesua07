@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <img height="500" align-items="left"src="https://i.pinimg.com/736x/f0/af/cb/f0afcbce7ed4a7df7b822964501bf995.jpg"/>
+  <img height="500" display="flex" align-items="left"src="https://i.pinimg.com/736x/f0/af/cb/f0afcbce7ed4a7df7b822964501bf995.jpg"/>
 </div>
 
 ###
